@@ -1,0 +1,11 @@
+Questão 2
+Resposta: c) programação orientada a objetos (POO)
+A POO permite modelar o sistema de forma muito próxima ao mundo real. Exemplo:
+
+Estrutura e Interação: As entidades da biblioteca (Livros, Autores) transformam-se em Classes. Os dados viram atributos e as ações viram métodos.
+
+Reuso: Permite criar moldes genéricos (ex: criar uma classe base Item para reaproveitar a lógica de empréstimo caso a biblioteca comece a emprestar livros).
+
+Evolução: O uso do encapsulamento protege o código. Se a regra de calcular a data de devolução mudar, você altera apenas aquele bloco específico.
+
+Eficiência: Objetos conseguem gerenciar "estados" na memória de forma segura, como atualizar o status de um livro de "disponível" para "emprestado" no momento da transação.
